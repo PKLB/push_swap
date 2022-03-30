@@ -23,7 +23,7 @@ SRCS=ft_atoi.c \
 	 ft_algo_big.c \
 	 ft_get_bottom_and_top.c \
 	 ft_list_second.c \
-	 ft_list_third.c
+	 ft_list_third.c \
 
 OBJS=${SRCS:.c=.o}
 
